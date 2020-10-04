@@ -132,8 +132,6 @@
 * [2.gp](http://2.gp)
 * [adf.ly](https://adf.ly)
 * [bit.ly](https://bitly.com)
-* [coinurl.com](https://coinurl.com)
-* [goo.gl](https://goo.gl)
 * [is.gd](https://is.gd)
 * [Polr](https://github.com/Cydrobolt/polr)
 * [qr.net](http://qr.net)
